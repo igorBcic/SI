@@ -1,0 +1,159 @@
+
+/* ========================= layout ======================== */
+* {
+    box-sizing: border-box;
+    margin: 0;
+	
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+	overflow-x: hidden;
+	
+	
+}
+/* -- Barra de navegação -- */
+.img-logo {
+	height: 45px;
+	width: 13fpx;
+	display: block;
+	background: url('images/logo.png') no-repeat;
+	background-size: contain;
+	color: transparent;
+}
+
+nav.navbar-transparente {
+	padding: 15px 0px;
+	background: #14d8a9;
+	border: none;
+}
+
+.navbar-brand{
+	padding: 5px 15px;
+}
+
+.divisor{
+	width: 1px;
+	height: 16px;
+	background: white;
+	margin: 16px 10px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+	color: #9bf0e1;
+}
+
+/* ========================= Capa ======================== */
+
+#capa{
+	background-color: #484444;
+	padding-top: 10px;
+	padding-bottom: 5x;
+	padding-left: 5px;
+}
+.icones{
+	padding-top: 40px;
+}
+.btn-custom{
+	border-radius: 500px;	
+	background: #14D8A9;
+	margin-top: 40px;
+	color: black;
+}
+
+/* ========================= Rodape ======================== */
+footer{
+	background: black;
+	padding: 50px 0px 20px 0px;
+}
+
+.img-logo2 {
+	height: 45px;
+	width: 13fpx;
+	display: block;
+	background: url('images/negativo-177-23-253-76-160454\ \(1\).jpg') no-repeat;
+	background-size: contain;
+	color: transparent;
+}
+
+.img-logo3 {
+	height: 45px;
+	width: 13fpx;
+	display: block;
+	background: url('images/negativo-177-23-253-76-160531\ \(1\).jpg') no-repeat;
+	background-size: contain;
+	color: transparent;
+}
+
+
+
+
+
+/* ========================= Tipografia ======================== */
+h1{
+	font-size: 100px;
+	font-weight: 900;
+	color: #14D8A9;
+	margin-bottom: 50px;
+	padding-top: 100px;
+}
+
+h2{
+	font-size: 50px;
+	font-weight: 500;
+	margin-bottom: 20px;
+	color: #14D8A9;
+	
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    position: absolute;
+    width: 341.75px;
+    height: 67.75px;
+    left: 131.52px;
+    top: 170.86px;
+
+    font-family: Epilogue;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 59.7807px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #14D8A9;
+}
+
+header p {
+    position: absolute;
+    width: 504.03px;
+    height: 102.22px;
+    left: 170px;
+    top: 327.97px;
+
+    font-family: Epilogue;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46.1432px;
+    line-height: 47px;
+
+    color: #14D8A9;
+}
+li{
+	color: white;
+}
+p{
+	color: white;
+}
+
+

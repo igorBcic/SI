@@ -1,0 +1,36 @@
+[0m2021.09.18 08:33:36 INFO  Started: Metals version 0.10.7 in workspace 'C:\wamp64\www\Reciclapp' for client Visual Studio Code 1.60.1.[0m
+[0m2021.09.18 08:33:38 INFO  time: initialize in 1.39s[0m
+[0m2021.09.18 08:33:39 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.18 08:33:39 WARN  no build tool detected in workspace 'C:\wamp64\www\Reciclapp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+set 18, 2021 3:18:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+set 18, 2021 3:18:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+set 18, 2021 3:35:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTrace
+[0m2021.09.19 08:37:39 INFO  Started: Metals version 0.10.7 in workspace 'C:\wamp64\www\Reciclapp' for client Visual Studio Code 1.60.1.[0m
+[0m2021.09.19 08:37:40 INFO  time: initialize in 1.65s[0m
+[0m2021.09.19 08:37:46 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.19 08:37:46 WARN  no build tool detected in workspace 'C:\wamp64\www\Reciclapp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.19 10:04:19 INFO  Started: Metals version 0.10.7 in workspace 'C:\wamp64\www\Reciclapp' for client Visual Studio Code 1.60.1.[0m
+[0m2021.09.19 10:04:20 INFO  time: initialize in 1.44s[0m
+[0m2021.09.19 10:04:26 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.19 10:04:26 WARN  no build tool detected in workspace 'C:\wamp64\www\Reciclapp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.22 15:04:38 INFO  Started: Metals version 0.10.7 in workspace 'C:\wamp64\www\Reciclapp' for client Visual Studio Code 1.60.1.[0m
+[0m2021.09.22 15:04:39 INFO  time: initialize in 1.05s[0m
+[0m2021.09.22 15:04:44 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.22 15:04:44 WARN  no build tool detected in workspace 'C:\wamp64\www\Reciclapp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.24 09:50:16 INFO  Started: Metals version 0.10.7 in workspace 'C:\wamp64\www\Reciclapp' for client Visual Studio Code 1.60.2.[0m
+[0m2021.09.24 09:50:17 INFO  time: initialize in 1.01s[0m
+[0m2021.09.24 09:50:23 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.24 09:50:23 WARN  no build tool detected in workspace 'C:\wamp64\www\Reciclapp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.24 10:52:57 INFO  shutting down Metals[0m
+[0m2021.09.26 18:18:50 INFO  Started: Metals version 0.10.7 in workspace 'C:\wamp64\www\Reciclapp' for client Visual Studio Code 1.60.2.[0m
+[0m2021.09.26 18:18:52 INFO  time: initialize in 1.49s[0m
+[0m2021.09.26 18:18:53 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.26 18:18:53 WARN  no build tool detected in workspace 'C:\wamp64\www\Reciclapp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.26 18:19:36 INFO  shutting down Metals[0m
+[0m2021.09.26 20:47:58 INFO  Started: Metals version 0.10.7 in workspace 'C:\wamp64\www\Reciclapp' for client Visual Studio Code 1.60.2.[0m
+[0m2021.09.26 20:47:59 INFO  time: initialize in 1.12s[0m
+[0m2021.09.26 20:48:00 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.26 20:48:00 WARN  no build tool detected in workspace 'C:\wamp64\www\Reciclapp'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m

@@ -1,0 +1,83 @@
+
+
+/*Navigation*/
+
+
+
+.wrapper {
+    max-width: 1000px;/*Tamanho da margem lateral*/
+    margin: 0 auto;
+}
+
+
+/*Header*/
+
+.header-container {
+    background: #484444 url('images/background-colored.svg');
+    background-repeat: no-repeat ;
+    background-position: 710px; /*can be right*/
+    background-size: contain;
+    height: 100vh;
+    /* display: flex; */
+    align-items: center;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    position: absolute;
+    width: 341.75px;
+    height: 67.75px;
+    left: 131.52px;
+    top: 170.86px;
+
+    font-family: Epilogue;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 59.7807px;
+    line-height: 61px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #14D8A9;
+}
+
+header p {
+    position: absolute;
+    width: 504.03px;
+    height: 102.22px;
+    left: 170px;
+    top: 327.97px;
+
+    font-family: Epilogue;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46.1432px;
+    line-height: 47px;
+
+    color: #14D8A9;
+}
+
+/*Icons*/
+
+.social-icons {
+    position: absolute;
+    /* width: 78.71px;
+    height: 88.67px; */
+    /* left: 127.53px; */
+    top: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/*mapa*/
+
+#map {
+    width: 100%;
+    height: 400px;
+}
